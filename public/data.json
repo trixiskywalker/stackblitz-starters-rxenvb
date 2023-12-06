@@ -1,0 +1,43 @@
+
+
+    {
+      "name": "Hotel Palmones",
+      "description": "Familjevänligt hotell i Europa",
+      "location": "Beläget inland",
+      "attractions": "Bra tillgång till närliggande sevärdheter",
+      "activities": "Erbjuder ett utbud av familje- och barnaktiviteter",
+      "img": "/img/beach-174561_640.jpg"
+    },
+    {
+      "name": "The Breeze Bay",
+      "description": "Familjevänligt kusthotell i Europa",
+      "location": "Naturskön kustplats",
+      "attractions": "Bekväm tillgång till strandaktiviteter",
+      "activities": "Erbjuder olika familjeinriktade bekvämligheter och underhållningsalternativ",
+      "img":
+    },
+    {
+      "name": "Whistiling Waters",
+      "description": "Familjevänligt hotell i Europa",
+      "location": "Inbäddat inland bland natursköna omgivningar",
+      "attractions": "Enkel tillgång till vandring och utomhusäventyr",
+      "activities": "Erbjuder familjevänliga aktiviteter som naturvandringar och lägereldar",
+      "img":
+    },
+    {
+      "name": "New Age Hotel",
+      "description": "Familjevänligt kusthotell i Europa",
+      "location": "Prima kustläge med vackra vyer",
+      "attractions": "Tillgång till strandaktiviteter och vattensporter",
+      "activities": "Erbjuder familjecentrerade tjänster och program",
+      "img":
+    },
+    {
+      "name": "Orson Hotel",
+      "description": "Familjevänligt hotell i Europa",
+      "location": "Beläget inland, ger en fridfull reträtt",
+      "attractions": "Närliggande tillgång till kulturella och historiska platser",
+      "activities": "Organiserar familjeinriktade utflykter och evenemang",
+      "img":
+    }
+
